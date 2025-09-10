@@ -1,7 +1,9 @@
-
-
-
 const routes = [
+
+  {
+    path: '/',
+    redirect: '/login'
+  },
   {
     path: '/login',
     component: () => import('layouts/MainLayout.vue'),
