@@ -1,7 +1,7 @@
 <template>
   <q-page class="flex flex-center">
     <div class="box-side">
-      <img class="pmvc" src="../assets/prefeituralogo.png" alt="" style="width: 75%" />
+      <img class="pmvc" src="../assets/imgs/prefeituralogo.png" alt="" style="width: 75%" />
     </div>
     <div class="box-inputs">
       <div class="login">
@@ -25,8 +25,8 @@
         </form>
 
         <div class="icons-login">
-          <img class="icon-google" src="../assets/Google__G__logo.png" alt="" />
-          <img class="icon-facebook" src="../assets/facebook.jpg" alt="" />
+          <img class="icon-google" src="../assets/imgs/Google__G__logo.png" alt="" />
+          <img class="icon-facebook" src="../assets/imgs/facebook.jpg" alt="" />
         </div>
         <div class="links">
           <a href=""> Cadastre-se</a>
